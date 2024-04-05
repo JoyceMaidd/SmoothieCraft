@@ -22,7 +22,7 @@ The SmoothieCraft iOS app encouraging healthy living and environmental sustainab
 
 ![Simulator Screenshot - iPad Air (5th generation) - 2024-04-04 at 22 14 15](https://github.com/JoyceMaidd/SmoothieCraft/assets/144640077/1ac5cb07-3b53-4758-b5b6-8b4bd6bab2c2)
 ![Simulator Screenshot - iPad Air (5th generation) - 2024-04-04 at 22 14 21](https://github.com/JoyceMaidd/SmoothieCraft/assets/144640077/57b87361-6cc8-4101-82b4-cfe5f7b9bdeb)
-![Simulator Screenshot - iPad Air (5th generation) - 2024-04-04 at 22 14 30](https://github.com/JoyceMaidd/SmoothieCraft/assets/144640077/33bd887e-bd83-4ab9-aac4-c92293f6014b)
+![Simulator Screenshot - iPad Air (5th generation) - 2024-04-04 at 22 26 59](https://github.com/JoyceMaidd/SmoothieCraft/assets/144640077/efbf959b-b516-46ed-80f3-b8bbb1279f24)
 ![Simulator Screenshot - iPad Air (5th generation) - 2024-04-04 at 22 14 36](https://github.com/JoyceMaidd/SmoothieCraft/assets/144640077/04d20474-e947-4d14-a514-db52f41c9012)
 ![Simulator Screenshot - iPad Air (5th generation) - 2024-04-04 at 22 14 58](https://github.com/JoyceMaidd/SmoothieCraft/assets/144640077/32736162-19ad-4d04-8dc3-aced18ade2d3)
 
